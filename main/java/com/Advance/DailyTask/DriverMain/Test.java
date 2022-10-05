@@ -15,7 +15,7 @@ import com.operation.GetAllData2;
 
 public class Test {
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception {   // NOT  CHANGED
 
 		AllOperations allOperation = new AllOperations();
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
